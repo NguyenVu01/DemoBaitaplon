@@ -1,0 +1,15 @@
+D:\anh trai\Code C#\QlyBanHang\bin\Debug\QlyBanHang.exe.config
+D:\anh trai\Code C#\QlyBanHang\bin\Debug\QlyBanHang.exe
+D:\anh trai\Code C#\QlyBanHang\bin\Debug\QlyBanHang.pdb
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.csproj.AssemblyReference.cache
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.csproj.SuggestedBindingRedirects.cache
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.Properties.Resources.resources
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.csproj.GenerateResource.cache
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.csproj.CoreCompileInputs.cache
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.exe
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.pdb
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.frmDMChatlieu.resources
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.frmMain.resources
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.frmDMNhanvien.resources
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.Forms.frmDMHang.resources
+D:\anh trai\Code C#\QlyBanHang\obj\Debug\QlyBanHang.Forms.frmDMKhachhang.resources
